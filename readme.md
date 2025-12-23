@@ -1,7 +1,7 @@
 # Simple Calculator App
 
 A clean and minimal calculator built using **HTML, CSS, and JavaScript**.  
-This project was created as part of the **#cl-dop-setupgit** task.
+It is a task given by the devops IG (**#cl-dop-setupgit**) task.
 
 
 ## Features
